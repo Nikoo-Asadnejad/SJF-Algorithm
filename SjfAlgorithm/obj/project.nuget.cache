@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GWbVLiY+qYyxK1YpSlFwf5fX7gBT/Pku5TLDdiKyqgQRxyI//NtpPmOjW7zKq7cB8LYc9rlO1LgAnHtH2K4uWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Asus\\Desktop\\SJF\\SjfAlgorithm\\SjfAlgorithm\\SjfAlgorithm.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\6.0.0\\microsoft.extensions.dependencyinjection.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Asus\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
