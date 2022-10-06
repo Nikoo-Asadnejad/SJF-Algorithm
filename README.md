@@ -1,2 +1,2 @@
 # SJF-Algoritjm
-a simple university project in which SJF algorithm has been implemented
+a simple project in which SJF scheduling algorithm has been implemented
